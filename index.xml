@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Nano Blog</title>
-    <link>https://l4tt_blog.github.io/</link>
+    <link>https://l4tt.github.io/l4tt_blog.github.io/</link>
     <description>Recent content on Nano Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Sep 2023 16:05:43 -0500</lastBuildDate><atom:link href="https://l4tt_blog.github.io/index.xml" rel="self" type="application/rss+xml" /><icon>https://l4tt_blog.github.io/img/icon.svg</icon>
+    <lastBuildDate>Wed, 13 Sep 2023 16:05:43 -0500</lastBuildDate><atom:link href="https://l4tt.github.io/l4tt_blog.github.io/index.xml" rel="self" type="application/rss+xml" /><icon>https://l4tt.github.io/img/icon.svg</icon>
     
     
     <item>
       <title>Start of my blog</title>
-      <link>https://l4tt_blog.github.io/posts/post/</link>
+      <link>https://l4tt.github.io/l4tt_blog.github.io/posts/post/</link>
       <pubDate>Wed, 13 Sep 2023 16:05:43 -0500</pubDate>
       
-      <guid>https://l4tt_blog.github.io/posts/post/</guid>
+      <guid>https://l4tt.github.io/l4tt_blog.github.io/posts/post/</guid>
       <description><![CDATA[<p>Hello, this is nano and this will be my personal blog for updates on my projects</p>
 ]]></description>
       

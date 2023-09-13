@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Nano Blog</title>
-    <link>https://l4tt_blog.github.io/posts/</link>
+    <link>https://l4tt.github.io/l4tt_blog.github.io/posts/</link>
     <description>Recent content in Posts on Nano Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Sep 2023 16:05:43 -0500</lastBuildDate><atom:link href="https://l4tt_blog.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Sep 2023 16:05:43 -0500</lastBuildDate><atom:link href="https://l4tt.github.io/l4tt_blog.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Start of my blog</title>
-      <link>https://l4tt_blog.github.io/posts/post/</link>
+      <link>https://l4tt.github.io/l4tt_blog.github.io/posts/post/</link>
       <pubDate>Wed, 13 Sep 2023 16:05:43 -0500</pubDate>
       
-      <guid>https://l4tt_blog.github.io/posts/post/</guid>
+      <guid>https://l4tt.github.io/l4tt_blog.github.io/posts/post/</guid>
       <description>Hello, this is nano and this will be my personal blog for updates on my projects</description>
     </item>
     
